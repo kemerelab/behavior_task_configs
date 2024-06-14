@@ -1,8 +1,8 @@
 Info: # "Info" configuration options can be overridden by command line options
-  MouseID: CameraTest # Used to name saved data file
+  MouseID: Mouse # Used to name saved data file
   Note: '' # Added in a block at the start of saved data file
   Session: '' # This is added to default (date and time)
-  TaskType: Camera Test Project
+  TaskType: Simple Linear Track
 
 Preferences:
   HeartBeat: 2000 # The interval at which a heart-beat info message is printed to screen (in ms) 

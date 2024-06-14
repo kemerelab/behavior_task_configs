@@ -1,6 +1,6 @@
 # This example config controls a VR environment in which reward is automatically
 # dispensed when the animal passes through a "Reward Zone". 
-# The VR includes 3-different location specific sound sources as well as a
+# The VR includes 3 different location specific sound sources as well as a
 # background sound. Note that this configuration file uses the "RewardZones" configuration 
 # option as opposed to a state machine (see, e.g., vr_teleport_classical_example.yaml).
 
